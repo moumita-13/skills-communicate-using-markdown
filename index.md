@@ -4,3 +4,5 @@
 #### I am Moumita
 ##### I am from India
 ###### Nice to meet you
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
