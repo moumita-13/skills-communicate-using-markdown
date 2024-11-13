@@ -18,4 +18,7 @@ var myVar = "Hello, world!";
 ``` C
 printf("Hello World");
 ```
-
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Learn markdown
